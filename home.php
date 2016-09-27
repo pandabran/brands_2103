@@ -8,7 +8,10 @@
 	</a>
 
 	<button class="btn btn-danger">
-		<i class="glypicon glyphicon-remove"> </i>
+		
+		<span class="glyphicon glyphicon-user">
+		</span>
+
 	</button>
 </body>
 </html>
