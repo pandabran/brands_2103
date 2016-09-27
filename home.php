@@ -7,6 +7,8 @@
 		<p> ey wezep hello </p>
 	</a>
 
-	<button class="btn btn-danger">RED BUTTON</button>
+	<button class="btn btn-danger">
+		<i class="glypicon glyphicon-remove"> </i>
+	</button>
 </body>
 </html>
